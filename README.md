@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YaseminAkin
 - 👀 I’m interested in sports and travelling
-- 🌱 I’m currently learning how to cs
+- 🌱 I’m currently a freshman at Bilkent!
 - 💞️ I’m looking to collaborate on some new programmes
 - 📫 Reach me here: akinnyaseminn3@gmail.com
 
