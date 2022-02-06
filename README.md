@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaseminAkin
-- 👀 I’m interested in sports and travelling
+- 👀 I’m interested in travelling
 - 🌱 I’m currently a freshman at Bilkent!
-- 💞️ I’m looking to collaborate on some new programmes
+- 💞️ I’m looking to collaborate on some new programs
 - 📫 Reach me here: akinnyaseminn3@gmail.com
 
 <!---
