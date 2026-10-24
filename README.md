@@ -15,7 +15,7 @@ I build ML systems and LLM agents. I'm doing an MSc in **AI at UCL**, after work
 
 - 🎓 MSc AI for Sustainable Development, UCL (2026–27) · BSc Computer Engineering, Bilkent University (GPA 3.78/4.00)
 - 💼 Vodafone: Junior Data Scientist (Big Data & AI), then Junior Customer Analyst · NavigaAI: Applied AI Intern (LangChain / LangGraph agents) · Quin AI: Software Engineer Intern
-- 🌱 Interested in responsible and sustainable AI, AI safety and generative AI
+- 🌱 Interested in trustworthy AI, AI safety and generative AI
 - 📍 London
 
 ## Featured work
