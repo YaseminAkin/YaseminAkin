@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:7C3AED&height=210&section=header&text=Yasemin%20Ak%C4%B1n&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=ML%20systems%20%C2%B7%20LLM%20agents%20%C2%B7%20London&descSize=18&descAlignY=58&animation=fadeIn" alt="Yasemin Akin: AI/ML systems, LLM agents, London" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:7C3AED&height=210&section=header&text=Yasemin%20Akin&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=ML%20systems%20%C2%B7%20LLM%20agents%20%C2%B7%20London&descSize=18&descAlignY=58&animation=fadeIn" alt="Yasemin Akin: AI/ML systems, LLM agents, London" width="100%" />
 </p>
 
 <p align="center">
