@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+ML+systems+for+production;Shipping+LLM+agents+with+LangGraph;MSc+AI+for+Sustainable+Development+%40+UCL;Previously+data+science+%40+Vodafone" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+ML+systems+for+production;Shipping+LLM+agents+with+LangGraph;MSc+AI+for+Sustainable+Development+%40+UCL;Previously+data+science+%40+Vodafone" alt="Building ML systems for production. Shipping LLM agents with LangGraph. MSc AI for Sustainable Development at UCL. Previously data science at Vodafone." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+ML+systems+for+production;Shipping+LLM+agents+with+LangGraph;MSc+AI+for+Sustainable+Development+%40+UCL;Previously+data+science+%40+Vodafone" alt="Building AI/ML systems for production. Shipping LLM agents with LangGraph. MSc AI at UCL. Previously data scientist at Vodafone." />
   </picture>
 </p>
 
