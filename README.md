@@ -11,7 +11,7 @@
 
 ## Hi, I'm Yasemin 👋
 
-I build ML systems and LLM agents. I'm doing an MSc in **AI for Sustainable Development at UCL**, after working in data science and customer analytics at **Vodafone**.
+I build ML systems and LLM agents. I'm doing an MSc in **AI at UCL**, after working as a data scientist and customer analyst at **Vodafone**.
 
 - 🎓 MSc AI for Sustainable Development, UCL (2026–27) · BSc Computer Engineering, Bilkent University (GPA 3.78/4.00)
 - 💼 Vodafone: Junior Data Scientist (Big Data & AI), then Junior Customer Analyst · NavigaAI: Applied AI Intern (LangChain / LangGraph agents) · Quin AI: Software Engineer Intern
@@ -63,6 +63,6 @@ flowchart TB
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/yaseminakin2003) · Open to AI / ML engineering roles in London
+[LinkedIn](https://www.linkedin.com/in/yaseminakin2003) · Open to applied AI / ML engineering and data scientist roles in London
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:7C3AED&height=110&section=footer" alt="" width="100%" />
